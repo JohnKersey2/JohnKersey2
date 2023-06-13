@@ -12,13 +12,11 @@ Email: JohnKerseyDev@gmail.com
 
 ### Skills and Tools
 
-Web Development: HTMML/CSS/JS, Bulma, Node, OOP, MVC, Express, React, Angular
+Web Development: HTML/CSS, Javascript, NodeJS, Express, React
 
 Databases: MySql, MongoDb
 
-Skills: Pair Programming, Teamwork, Problem Solving, Organization
-
-Will be studying soon: Advanced Database Structures, Python, Java, Ruby on Rails, and SEO 
+Skills: Pair Programming, Teamwork, Organization, Problem Solving, Hands-on Learning
 
 <!--
 **JohnKersey2/JohnKersey2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

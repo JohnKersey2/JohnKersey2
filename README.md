@@ -8,7 +8,7 @@ Hello there! I'm John. After spending 11 years as an executive and personal assi
 
 Linkedin: https://www.linkedin.com/in/johnkersey2/
 
-Email: Johnkersey2@yahoo.com
+Email: JohnKerseyDev@gmail.com
 
 ### Skills and Tools
 
